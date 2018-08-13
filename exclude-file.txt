@@ -1,0 +1,17 @@
+# exclude from /home default linux folders
+/home/gabriele/Desktop
+/home/gabriele/Documents
+/home/gabriele/Downloads
+/home/gabriele/Music
+/home/gabriele/Pictures
+/home/gabriele/Public
+/home/gabriele/Templates
+/home/gabriele/Videos
+
+# exclude from /home personal directories
+/home/gabriele/Dati
+/home/gabriele/Dropbox
+/home/gabriele/IBM
+/home/gabriele/R
+/home/gabriele/Uniud
+/home/gabriele/VirtualBox\ VMs
