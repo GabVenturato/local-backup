@@ -6,7 +6,7 @@ You can easily make the script run automatically to have automatic backups in a 
 You can easily use different copies of this scrpit (with its configuration files) in order to do different backups in different repositories.
 
 ## Installation
-- `git clone` od `download` this repository
+- `git clone` or `download` this repository
 - edit configuration files
     - `include-file.txt` is a list of files/directories you want to backup, one per line
     - `exclude-file.txt` is a list of files/directories you want to exclude from the ones included in the previous file
